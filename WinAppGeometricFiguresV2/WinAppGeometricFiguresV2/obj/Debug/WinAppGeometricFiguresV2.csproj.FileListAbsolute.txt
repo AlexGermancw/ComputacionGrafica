@@ -1,0 +1,31 @@
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\bin\Debug\WinAppGeometricFiguresV2.exe.config
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\bin\Debug\WinAppGeometricFiguresV2.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\bin\Debug\WinAppGeometricFiguresV2.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.csprojAssemblyReference.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmMenu.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmCircle.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmTriangle.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmRectangle.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmSquare.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmConcentricTriangles.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2019\Code Snippets\Visual C#\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmHexagon.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\bin\Debug\WinAppGeometricFiguresV2.exe.config
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\bin\Debug\WinAppGeometricFiguresV2.exe
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\bin\Debug\WinAppGeometricFiguresV2.pdb
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.csprojAssemblyReference.cache
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmCircle.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmConcentricTriangles.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmHexagon.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmMenu.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmRectangle.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmSquare.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.frmTriangle.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.Properties.Resources.resources
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.csproj.GenerateResource.cache
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.csproj.CoreCompileInputs.cache
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.exe
+D:\Documentos\ESPE\ComputacionGrafica\WinAppGeometricFiguresV2\WinAppGeometricFiguresV2\obj\Debug\WinAppGeometricFiguresV2.pdb
